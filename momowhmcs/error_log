@@ -1,0 +1,34 @@
+[17-Jan-2019 15:16:17 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 15:16:17 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 15:16:17 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[17-Jan-2019 15:20:58 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 15:20:59 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 15:20:59 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[17-Jan-2019 15:35:35 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 15:35:35 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 15:35:35 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[17-Jan-2019 15:43:50 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:45:50 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:49:29 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 15:49:29 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 15:49:29 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[17-Jan-2019 15:49:39 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:50:11 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:51:32 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:53:09 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 15:54:41 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 17:11:05 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 17:11:05 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 17:11:05 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[17-Jan-2019 17:16:31 UTC] PHP Notice:  Trying to get property of non-object in /home/cloudhost/public_html/pursapay/index.php on line 55
+[17-Jan-2019 17:33:55 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[17-Jan-2019 17:33:55 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[17-Jan-2019 17:33:55 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[18-Jan-2019 13:51:26 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 21
+[18-Jan-2019 13:51:26 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 22
+[18-Jan-2019 13:51:26 UTC] PHP Notice:  Undefined variable: POST in /home/cloudhost/public_html/pursapay/index.php on line 23
+[18-Jan-2019 14:01:54 UTC] PHP Notice:  Undefined variable: secret in /home/cloudhost/public_html/pursapay/index.php on line 61
+[18-Jan-2019 14:16:03 UTC] PHP Notice:  Undefined variable: secret in /home/cloudhost/public_html/pursapay/index.php on line 61
+[18-Jan-2019 14:33:45 UTC] PHP Notice:  Undefined variable: secret in /home/cloudhost/public_html/pursapay/index.php on line 61
+[18-Jan-2019 14:42:17 UTC] PHP Notice:  Undefined variable: secret in /home/cloudhost/public_html/pursapay/index.php on line 61

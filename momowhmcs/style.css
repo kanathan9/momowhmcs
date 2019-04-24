@@ -1,0 +1,39 @@
+body{
+    background-color: #DBE7FB;
+}
+.top-menu{
+    background-color: #0E08BE;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.main-menu{
+    background-color: #3080F8;
+    min-height: 100px;
+}
+.main-nav-item{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.main-title{
+    color: #0E08BE;
+}
+.bottom-two{
+    background-color: #3080F8;
+    min-height: 250px;
+}
+.bottom-one{
+    background-color: #0E08BE;
+    min-height: 200px;
+}
+img{
+    cursor: pointer;
+}
+img.disab{
+  -webkit-filter: grayscale(1); /* Webkit */
+  filter: gray; /* IE6-9 */
+  filter: grayscale(1); /* W3C */
+  cursor: auto;
+}
